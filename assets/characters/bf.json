@@ -1,221 +1,221 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				-5,
-				0
+				-40,
+				-221
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "BF idle dance",
-			"indices": []
+			"indices": [],
+			"name": "Idle Dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				5,
-				-6
+				-15,
+				-226
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "BF NOTE LEFT0",
-			"indices": []
+			"indices": [],
+			"name": "Left Pose"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-10,
-				-50
+				-41,
+				-277
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "BF NOTE DOWN0",
-			"indices": []
+			"indices": [],
+			"name": "Down Pose"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-29,
-				27
+				-45,
+				-207
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "BF NOTE UP0",
-			"indices": []
+			"indices": [],
+			"name": "Up Pose"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-48,
-				-7
+				-46,
+				-220
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "BF NOTE RIGHT0",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right Pose"
+		},
+		{
+			"offsets": [
+				-63,
+				-216
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Hey Pose"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				7,
-				19
+				89,
+				-207
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
-			"name": "BF NOTE LEFT MISS",
+			"name": "Left Miss pose",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-15,
-				-19
+				102,
+				-257
 			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
-			"name": "BF NOTE DOWN MISS",
+			"name": "Down Miss pose",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-36,
-				27
+				83,
+				-194
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
-			"name": "BF NOTE UP MISS",
+			"name": "Up Miss pose",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-44,
-				22
+				96,
+				-206
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
-			"name": "BF NOTE RIGHT MISS",
+			"name": "Right Miss pose",
 			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-3,
-				5
+				-61,
+				-216
 			],
-			"anim": "hey",
-			"fps": 24,
-			"name": "BF HEY",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				15,
-				18
-			],
-			"anim": "hurt",
-			"fps": 24,
-			"name": "BF hit",
-			"indices": []
-		},
-		{
 			"loop": true,
-			"offsets": [
-				-4,
-				0
-			],
+			"fps": 24,
 			"anim": "scared",
-			"fps": 24,
-			"name": "BF idle shaking",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				37,
-				11
-			],
-			"anim": "firstDeath",
-			"fps": 24,
-			"name": "BF dies",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				37,
-				5
-			],
-			"anim": "deathLoop",
-			"fps": 24,
-			"name": "BF Dead Loop",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				37,
-				69
-			],
-			"anim": "deathConfirm",
-			"fps": 24,
-			"name": "BF Dead confirm",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
-				-16
-			],
-			"anim": "dodge",
-			"fps": 24,
-			"name": "boyfriend dodge",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				294,
-				267
-			],
-			"anim": "attack",
-			"fps": 24,
-			"name": "boyfriend attack",
-			"indices": []
+			"indices": [],
+			"name": "Fear"
 		},
 		{
 			"loop": false,
 			"offsets": [
 				-40,
-				-40
+				-221
 			],
-			"anim": "pre-attack",
+			"anim": "idle-alt",
 			"fps": 24,
-			"name": "bf pre attack",
+			"name": "Idle ALT",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-228
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Left ALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-273
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Down ALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-192
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Up ALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-220
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Right ALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				-201
+			],
+			"anim": "demonMode",
+			"fps": 24,
+			"name": "GF Turn Into Demon",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-35,
+				-239
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "Dodge Up"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/GF_in_Bf_clothesV2",
 	"position": [
-		0,
-		350
-	],
-	"healthicon": "bf",
-	"flip_x": true,
-	"healthbar_colors": [
-		49,
-		176,
-		209
-	],
-	"camera_position": [
 		0,
 		0
 	],
-	"sing_duration": 4,
+	"healthicon": "rapgfv2",
+	"flip_x": true,
+	"healthbar_colors": [
+		149,
+		7,
+		78
+	],
+	"camera_position": [
+		-70,
+		320
+	],
+	"sing_duration": 6.1,
 	"scale": 1
 }
